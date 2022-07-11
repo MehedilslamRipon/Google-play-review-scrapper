@@ -10,4 +10,4 @@
 -  Go to the repo directory
 -  Write this command on your terminal and then hit Enter - `npm install`
 - Then `node index.js` to execute the program
-- Look at the current directory; a new file has been created, name `review.json`, and this is the result.
+- Look at the current directory; a new file has been created, name `reviews.json`, and this is the result.
